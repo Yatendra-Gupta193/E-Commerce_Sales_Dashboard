@@ -95,4 +95,4 @@ Give it a ⭐ on GitHub and share your feedback!
 
 ---
 
-Made with ❤️ by Yatendra Guptagit 
+Made with ❤️ by Yatendra Gupta
