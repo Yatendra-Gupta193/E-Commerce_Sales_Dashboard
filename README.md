@@ -91,7 +91,7 @@ The dashboard allows users to dynamically filter data based on:
 
 ## ⭐ If You Like This Project
 
-Give it a ⭐ on GitHub and share your feedback!
+Give it a ⭐ on GitHub and share your feedback !!
 
 ---
 
