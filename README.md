@@ -11,7 +11,7 @@ The dashboard allows users to dynamically filter data based on:
 * 🛍️ **Sub-Category (Store Type)**
 
 ---
-
+ 
 ## 🎯 Key Features
 
 * 📈 **Sales Insights**
